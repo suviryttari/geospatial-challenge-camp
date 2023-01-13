@@ -30,6 +30,25 @@ and they will work on real challenges and problems identified and confronted by 
 detailed problem, which their group will try to solve. All solutions developed during the camp use and apply geospatial data and digital technologies. The groups will work independently to solve the problem and
 finally present their solutions.
 
+How to participate?
+-------------------
+
+For young researchers
+̃̃~~~~~~~~~~~~~~~~~~~~~~
+
+Fill the following form to apply for the Geospatial Challenge Camp 2023:
+
+- `Apply here as a researcher <>`__
+
+
+For collaborators
+̃̃~~~~~~~~~~~~~~~~~
+
+Fill the following form to apply for the Geospatial Challenge Camp 2023:
+
+- `Apply here as a collaborator (organization, company etc.) <>`__
+
+
 Schedule and programme
 ----------------------
 
