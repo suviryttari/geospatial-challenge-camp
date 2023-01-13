@@ -11,7 +11,7 @@ which could have sustainability impacts for the users of the solution and for th
 
 **The theme** for the Geospatial Challenge Camp for year 2023 is **Health and wellbeing**. Good health is essential to sustainable development and the 2030 Agenda reflects the complexity and interconnectedness of the two.
 In the challenge, the objective is to work towards integrating health and location data to support analysis and improvement of health and wellbeing. Possible application areas include air quality, climate change effects in
-urban planning, pandemic management, widening economic and social inequalities, and rapid urbanisation.
+urban planning, pandemic management, economic and social inequalities, and rapid urbanisation.
 
 Background
 ----------
