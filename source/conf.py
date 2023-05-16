@@ -19,7 +19,7 @@
 
 project = 'Geospatial Challenge Camp 2023 Finland'
 copyright = '2023, GCC contributors.'
-author = 'GCC contributors (Aalto University - Geoinformatics Department)'
+author = 'GCC contributors | Aalto University - Geoinformatics Department | University of Turku'
 
 # The full version, including alpha/beta/rc tags
 release = 'v1.0'
@@ -60,8 +60,8 @@ pygments_style = 'sphinx'
 # a list of builtin themes.
 #
 html_theme = 'sphinx_book_theme'
-html_logo = 'img/LIH.png'
-html_title = "Geospatial Challenge Camp 2023"
+html_logo = 'img/gcc_logo.png'
+html_title = ""
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
