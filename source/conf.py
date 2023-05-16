@@ -17,9 +17,13 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Geospatial Challenge Camp Finland'
-copyright = 'Geospatial Challenge Camp.'
-author = 'GCC contributors.'
+project = 'Geospatial Challenge Camp 2023 Finland'
+copyright = '2023, GCC contributors.'
+author = 'GCC contributors (Aalto University - Geoinformatics Department)'
+
+# The full version, including alpha/beta/rc tags
+release = 'v1.0'
+
 
 # -- General configuration ---------------------------------------------------
 
@@ -29,10 +33,13 @@ author = 'GCC contributors.'
 extensions = [
     'sphinx.ext.mathjax',
     'sphinx.ext.todo',
+    'sphinx.builders.linkcheck',
     'sphinx_togglebutton',
     'IPython.sphinxext.ipython_console_highlighting',
     'IPython.sphinxext.ipython_directive',
     'myst_nb',
+    'jupyter_sphinx',
+   # 'sphinx_last_updated_by_git'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -43,6 +50,7 @@ templates_path = ['_templates']
 # This pattern also affects html_static_path and html_extra_path.
 exclude_patterns = []
 
+
 # -- Options for HTML output -------------------------------------------------
 
 # The name of the Pygments (syntax highlighting) style to use.
@@ -50,22 +58,21 @@ pygments_style = 'sphinx'
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
+#
 html_theme = 'sphinx_book_theme'
-
-# Show todos
-todo_include_todos = True
+html_logo = 'img/LIH.png'
+html_title = "Geospatial Challenge Camp 2023"
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
-html_logo = 'img/r5_workshop_logo.png'
-html_title = ""
 
 html_theme_options = {
     # "external_links": [],
+    "navbar_end": ["navbar-icon-links"],
     "repository_url": "https://github.com/geospatial-challenge-camp/",
-    "repository_branch": "main",
+    "repository_branch": "master",
     "path_to_docs": "source/",
     # "twitter_url": "https://twitter.com/pythongis",
     "google_analytics_id": "",
@@ -85,7 +92,7 @@ html_theme_options = {
 }
 
 # Allow errors
-execution_allow_errors = True
+# execution_allow_errors = True
 
 # Do not execute cells
-jupyter_execute_notebooks = "off"
+# jupyter_execute_notebooks = "off"

@@ -1,8 +1,5 @@
 .. figure:: img/event_banner.png
 
-Geospatial Challenge Camp Finland
-=================================
-
 **Geospatial Challenge Camp** is a 10-weeks long challenge-based course that aims to provide **young researchers** (doctoral and post-doctoral researchers, MSc students)
 a chance to tackle relevant real-world challenges in cross-disciplinary teams. The participants from Finnish universities and research organisations will work in multidisciplinary teams
 to identify and analyse complex location and time -related societal problems. The teams will co-design and build digital impact-driven solutions, which would improve the current know-how and
@@ -34,19 +31,19 @@ How to participate?
 -------------------
 
 For young researchers
-̃̃~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~
 
 Fill the following form to apply for the Geospatial Challenge Camp 2023:
 
-- `Apply here as a researcher <>`__
+- `Apply as a Researcher <https://www.python.org/>`_.
 
 
 For collaborators
-̃̃~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~
 
 Fill the following form to apply for the Geospatial Challenge Camp 2023:
 
-- `Apply here as a collaborator (organization, company etc.) <>`__
+- `Apply as a Collaborator <https://www.python.org/>`_.
 
 
 Schedule and programme
@@ -88,9 +85,7 @@ Contents
 
 .. toctree::
    :maxdepth: 1
-   :caption: Basic information
    :titlesonly:
-   :hidden:
 
    course-info/introduction
 
