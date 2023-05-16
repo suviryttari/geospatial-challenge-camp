@@ -71,7 +71,7 @@ html_static_path = ['_static']
 html_theme_options = {
     # "external_links": [],
     "navbar_end": ["navbar-icon-links"],
-    "repository_url": "https://github.com/geospatial-challenge-camp/",
+    "repository_url": "https://github.com/geoportti/geospatial-challenge-camp",
     "repository_branch": "master",
     "path_to_docs": "source/",
     # "twitter_url": "https://twitter.com/pythongis",
