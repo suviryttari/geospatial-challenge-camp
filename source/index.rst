@@ -16,6 +16,51 @@ To whom is it for?
 ------------------
 Doctoral/Post-Doctoral Researchers and Master students
 
+Sign Up 
+--------
+
+.. raw:: html
+
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 d-flex">
+                <div class="card text-center intro-card shadow">
+                <img src="_static/researchers.png" class="card-img-top" alt="researchers image" >
+                <div class="card-body flex-fill">
+                    <h5 class="card-title">Researchers and Students</h5>
+                    <p class="card-text">Find information about signing up and important dates in the dedicated site to Researchers and Master students</p>
+
+.. container:: custom-button
+
+    `Participants site <sites/participants.html>`_
+
+.. raw:: html
+
+                </div>
+                </div>
+            </div>
+          <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 d-flex">
+              <div class="card text-center intro-card shadow">
+              <img src="_static/students.png" class="card-img-top" alt="students image">
+              <div class="card-body flex-fill">
+                  <h5 class="card-title">Partners</h5>
+                  <p class="card-text">Find information about confirmation and important dates in the dedicated site to Partners</p>
+
+.. container:: custom-button
+
+    `Partners site <sites/partners.html>`__
+
+.. raw:: html
+
+                </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
 
 General information
 --------------------
@@ -49,48 +94,6 @@ The benefits of the Geospatial Challange Camp:
 
 - Facilitate the growth of open data, technology and application innovations around Finnish research expertise
 - Strengthen Finnish geospatial competence and innovation ecosystem through cross-fertilization of research, innovation, business and sustainable development expertise around digital location data and technologies
-
-Sign Up 
---------
-
-.. raw:: html
-
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 d-flex">
-                <div class="card text-center intro-card shadow">
-                <img src="_static/researchers.png" class="card-img-top" alt="researchers image" >
-                <div class="card-body flex-fill">
-                    <h5 class="card-title">Researchers and Students</h5>
-                    <p class="card-text">Find information about signing up and important dates in the dedicated site to Researchers and Master students</p>
-
-.. container:: custom-button
-
-    `Participants site <sites/participants.html>`_
-
-.. raw:: html
-
-                </div>
-                </div>
-            </div>
-            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 d-flex">
-                <div class="card text-center intro-card shadow">
-                <img src="_static/students.png" class="card-img-top" alt="students image">
-                <div class="card-body flex-fill">
-                    <h5 class="card-title">Partners</h5>
-                    <p class="card-text">Find information about confirmation and important dates in the dedicated site to Partners</p>
-
-.. container:: custom-button
-
-    `Partners site <sites/partners.html>`__
-
-.. raw:: html
-
-                  </div>
-                </div>
-            </div>
-        </div>
-    </div>
 
 
 
