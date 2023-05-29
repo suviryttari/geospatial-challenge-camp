@@ -60,7 +60,7 @@ pygments_style = 'sphinx'
 # a list of builtin themes.
 #
 html_theme = 'sphinx_book_theme'
-html_logo = 'img/gcc_logo.png'
+html_logo = '_static/gcc_logo.png'
 html_title = ""
 
 # Add any paths that contain custom static files (such as style sheets) here,
@@ -68,6 +68,9 @@ html_title = ""
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 
+html_css_files = [
+    "css/gcc.css",
+]
 html_theme_options = {
     # "external_links": [],
     "navbar_end": ["navbar-icon-links"],

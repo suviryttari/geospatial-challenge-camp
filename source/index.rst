@@ -1,72 +1,106 @@
-.. figure:: img/banner_logos.png
+.. figure:: _static/banner_logos.png
 
-**Geospatial Challenge Camp** is a 10-weeks long challenge-based course that aims to provide young researchers (doctoral and post-doctoral researchers, MSc students)
-a chance to tackle relevant real-world challenges in cross-disciplinary teams. The participants from Finnish universities and research organisations will work in multidisciplinary teams
-to identify and analyse complex location and time -related societal problems. The teams will co-design and build digital impact-driven solutions, which would improve the current know-how and
-capabilities of managing these problems in the society. Researcher teams work actively with their peers, mentors and stakeholders during the camp and focus on designing geospatial data and digital technology solutions,
-which could have sustainability impacts for the users of the solution and for the society at large.
 
-Geospatial Challenge Camp is a 10-week long challenge-based course that aims to provide young researchers (doctoral and post-doctoral researchers, MSc students) a chance to tackle relevant real-world challenges in cross-disciplinary teams. 
-The participants from Finnish universities and research organizations will work in multidisciplinary teams to identify and analyze complex location and time-related societal problems. 
-The teams will co-design and build digital impact-driven solutions, which would improve the current know-how and capabilities of managing these problems in the society. 
-Researcher teams work actively with their peers, mentors and stakeholders during the camp and focus on designing geospatial data and digital technology solutions, which could have 
-sustainability impacts for the users of the solution and for the society at large.
-The theme for the Geospatial Challenge Camp for year 2023 is **Health and Wellbeing**. Good health is essential to sustainable development and the 2030 Agenda reflects the complexity and 
-interconnectedness of both. In the challenge, the objective is to work towards integrating health and location data to support analysis and improvement of health and wellbeing. 
-Possible application areas include air quality, climate change effects in urban planning, pandemic management, economic and social inequalities, and rapid urbanization.
+What is it?
+------------
 
-Background
-----------
+A 10-weeks long challenge-based course to tackle relevant **Health and Wellbeing** real-world challenges in cross-disciplinary teams.
 
-Geospatial Challenge Camp is a new skills development and innovation service of `Geoportti Research Infrastructure <https://www.geoportti.fi/>`_ and Location Innovation Hub (LIH), which is one of the European Digital Innovation Hubs.
-The goal of the Camp is to facilitate the growth of open data, technology and application innovations around Finnish research expertise and strengthen Finnish geospatial competence and innovation ecosystem through cross-fertilization of research,
-innovation, business and sustainable development expertise around digital location data and technologies. The Geospatial Challenge Camp aims to link scientists from various disciplines to work on real-world sustainability challenges posed by societal actors,
-data providers, companies, NGOs and innovation community actors. The challenge camp will facilitate the professional growth of young scientists and practitioners regarding the use of data, technology and application innovations stemming from the Finnish geospatial research expertise.
-Challenges will offer researchers a chance to expand their data science solutions into new operative solutions and make a broader societal impact in Finland and beyond.
+What is the aim?
+-----------------
 
-How is the camp organized?
---------------------------
+To design and build digital impact-driven solutions for complex location and time-related societal problems focused on the improvement 
+**Health and Wellbeing**
 
-The camp is 10 weeks long and equals 5 university credits (100-140 hours of work). Groups are formed from young researchers representing different universities, research organisations, disciplines and skills,
-and they will work on real challenges and problems identified and confronted by different actors in the society. At the beginning of the camp, the groups will work together with these actors to define a more
-detailed problem, which their group will try to solve. All solutions developed during the camp use and apply geospatial data and digital technologies. The groups will work independently to solve the problem and
-finally present their solutions.
+To whom is it for?
+------------------
+Doctoral/Post-Doctoral Researchers and Master students
 
-How to participate?
+
+General information
+--------------------
+
+The *Geospatial Challenge Camp* is a new skills development and innovation service of `Geoportti Research Infrastructure <https://www.geoportti.fi/>`_ 
+and `Location Innovation Hub (LIH) <https://www.maanmittauslaitos.fi/en/locationinnovationhub>`_, which is one of the European Digital Innovation Hubs. 
+The Geospatial Challenge Camp is a 10-week long challenge-based course (5 ECTS) that aims to provide participants a chance to tackle relevant 
+real-world challenges in cross-disciplinary teams. The participants are doctoral and post-doctoral researchers plus master students 
+from Finnish universities and research organizations. They will work together in multidisciplinary teams and 
+collaborate with mentors and stakeholders.
+
+The aims of the course:
+
+- Identify and analyze complex location and time-related societal problems
+- Design and build digital impact-driven solutions, which would improve the current know-how and capabilities of managing these problems in the society
+- Link scientists from various disciplines to work on real-world sustainability challenges posed by societal actors, data providers, companies, NGOs and innovation community actors
+- Facilitate the professional growth of young scientists and practitioners regarding the use of data, technology and application innovations stemming from the Finnish geospatial research expertise
+- Offer researchers a chance to expand their data science solutions into new operative solutions and make a broader societal impact in Finland and beyond
+
+The theme for the Geospatial Challenge Camp for year 2023 is **Health and Wellbeing**. In the challenge, 
+the objective is to work towards integrating health and location data to support analysis and improvement 
+of health and wellbeing. Possible application areas include:
+
+- Air quality
+- Climate change effects in urban planning
+- Pandemic management
+- Economic and societal inequalities
+- Rapid urbanization
+
+The benefits of the Geospatial Challange Camp:
+
+- Facilitate the growth of open data, technology and application innovations around Finnish research expertise
+- Strengthen Finnish geospatial competence and innovation ecosystem through cross-fertilization of research, innovation, business and sustainable development expertise around digital location data and technologies
+
+Sign Up 
+--------
+
+.. raw:: html
+
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 d-flex">
+                <div class="card text-center intro-card shadow">
+                <img src="_static/researchers.png" class="card-img-top" alt="researchers image" >
+                <div class="card-body flex-fill">
+                    <h5 class="card-title">Researchers and Students</h5>
+                    <p class="card-text">Find information about signing up and important dates in the dedicated site to Researchers and Master students</p>
+
+.. container:: custom-button
+
+    `Participants site <sites/participants.html>`_
+
+.. raw:: html
+
+                  </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+Schedule
 -------------------
-
-
-*More information coming soon*
-
-
-Detailed schedule
--------------------
-
-**Kick-off meeting**
-
-The camp will start with a 2-day kick-off seminar and workshop on September 25-26th, 2023. This is hosted at Aalto University (Otaniemi Campus).
-
-**Pitching**
-
-The course will finish with the pitching of the solutions and follow-up discussions during December 5th, 2023 in Helsinki.
-
-**Weekly content**
 
 The course runs for 10 weeks with a following structure:
 
 .. list-table::
-    :widths: 2 6
+    :widths: 2 9
     :header-rows: 1
     :stub-columns: 1
     :align: left
 
     * - Time
       - Content
-
+    
+    * - Kick-off event
+      - - 25.-26.9.2023 at Aalto University, Espoo
+        - Introduction to the challenge theme, meeting with stakeholders, forming teams
+        - A half day public seminar will be held first on Sep 25th with all the collaborators and researchers and Geoportti RI and LIH experts
+        - A day and a half workshop with the researchers and Geoportti RI mentors (UTU, Aalto, FGI, SCS, SYKE, EUF) will follow
+        
     * - Week 1
-      - - Kick-off event (September 25-26th, 2023) with introduction to the challenge theme, meeting with stakeholders, forming teams. A public seminar (half-a day) will be held first on Sep 25th with all the collaborators and researchers and Geoportti RI and LIH experts. Then a 1,5 day workshop with the researchers and Geoportti RI mentors (UTU, Aalto, FGI, SCS, SYKE, EUF) will follow.
-        - Getting to know the societal context of the challenge, core data and tech options, Sustainable Development Goals relevance and linkages, etc.
-        - At the end of the kick-off event the teams have been formed and they have arranged for initial means of communication and cooperation within the team. Teams start independent work, possibly consulting with appropriate experts from organizations that own the challenge.
+      - - Getting to know the societal context of the challenge, core data and tech options, Sustainable Development Goals relevance and linkages, etc
+        - Communicating with teams
 
     * - Week 2
       - - Challenge specification phase
@@ -96,6 +130,13 @@ The course runs for 10 weeks with a following structure:
         - Each group will present their solution to the rest of the course, stakeholders, and general audience during the Geoinformatics Research Days 2024
         - Any data, software demos etc. created will also be publicly distributed (unless otherwise agreed by the group, the stakeholders and the course staff)
         - Follow-up plans will also be presented, in order for the work to continued among interested parties
+
+    * - Final Seminar
+      - - 5.12.2023 in Turku or Espoo
+        - Each group will present their solution to the rest of the course, stakeholders, and general audience
+        - Any data, software demos etc. created will also be publicly distributed (unless otherwise agreed by the group, the stakeholders and the course staff)
+        - Follow-up plans will also be presented, in order for the work to continued among interested parties
+
 
 
 
