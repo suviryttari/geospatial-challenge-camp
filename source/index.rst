@@ -70,6 +70,22 @@ Sign Up
 
 .. raw:: html
 
+                </div>
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 d-flex">
+                <div class="card text-center intro-card shadow">
+                <img src="_static/students.png" class="card-img-top" alt="students image">
+                <div class="card-body flex-fill">
+                    <h5 class="card-title">Partners</h5>
+                    <p class="card-text">Find information about confirmation and important dates in the dedicated site to Partners</p>
+
+.. container:: custom-button
+
+    `Partners site <sites/partners.html>`__
+
+.. raw:: html
+
                   </div>
                 </div>
             </div>
