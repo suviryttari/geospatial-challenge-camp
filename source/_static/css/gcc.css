@@ -32,14 +32,15 @@ body {
   background-color: #d5d7e6;
   color: #484848;
   border: none;
-  padding: 5px;
+  padding: 6.5px;
   text-decoration: none;
-  font-size: 0.9rem;
+  font-size: 1.1rem;
   border-radius: 0.5rem;  
 }
 
 .custom-button:hover {
-  background-color: #1c87de;
+  background-color: #4eb3f1;
+  color: #484848;
 }
 .custom-button a {
   color: #484848;

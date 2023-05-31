@@ -1,13 +1,15 @@
 .. figure:: _static/banner_logos.png
 
+General Info
+============
 
 What?
-======
+-----
 
 A 10-weeks long challenge-based course to tackle relevant **Health and Wellbeing** real-world challenges in cross-disciplinary teams.
 
 Why?
-=====
+-----
 
 To design and build digital impact-driven solutions for complex location and time-related societal problems focused on the improvement of 
 **Health and Wellbeing**
@@ -26,11 +28,11 @@ Register your participation as your suitable role in the course.
                   <img src="_static/researchers.png" class="card-img-top" alt="researchers image" >
                     <div class="card-body flex-fill">
                       <h5 class="card-title">Researchers and Students</h5>
-                        <p class="card-text">Find information about signing up and important dates in the dedicated site to Researchers and Master students</p>
+                        <p class="card-text">Find information about registration and important dates as a Participant</p>
 
 .. container:: custom-button
 
-    `Participants site <sites/participants.html>`_
+    `Sign Up <sites/participants.html>`_
 
 .. raw:: html
 
@@ -41,12 +43,12 @@ Register your participation as your suitable role in the course.
               <div class="card text-center intro-card shadow">
               <img src="_static/students.png" class="card-img-top" alt="students image">
               <div class="card-body flex-fill">
-                  <h5 class="card-title">Partners</h5>
-                  <p class="card-text">Find information about confirmation and important dates in the dedicated site to Partners</p>
+                  <h5 class="card-title">Partners and Institutions</h5>
+                  <p class="card-text">Find information about registration and important dates as a Collaborator</p>
 
 .. container:: custom-button
 
-    `Partners site <sites/partners.html>`__
+    `Sign Up <sites/partners.html>`__
 
 .. raw:: html
 
@@ -155,5 +157,14 @@ The course runs for 10 weeks with a following structure:
         - Follow-up plans will also be presented, in order for the work to continued among interested parties
 
 
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Sign Up
+
+   sites/partners
+   sites/participants
+   
+  
 
 

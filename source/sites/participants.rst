@@ -1,2 +1,2 @@
-Participants registration
+Participants
 ==========================
