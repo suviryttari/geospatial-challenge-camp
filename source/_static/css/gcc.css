@@ -30,17 +30,17 @@ body {
 
 .custom-button {
   background-color: #d5d7e6;
-  border: none;
   color: #484848;
-  text-align: center;
+  border: none;
+  padding: 3.5px;
   text-decoration: none;
-  display: inline-block;
   font-size: 0.9rem;
-  border-radius: 0.5rem;
-  max-width: 220px;
-  padding: 0.5rem 0rem;
+  border-radius: 0.5rem;  
 }
 
+.custom-button:hover {
+  background-color: #1c87de;
+}
 .custom-button a {
   color: #484848;
 }

@@ -1,23 +1,21 @@
 .. figure:: _static/banner_logos.png
 
 
-What is it?
-------------
+What?
+======
 
 A 10-weeks long challenge-based course to tackle relevant **Health and Wellbeing** real-world challenges in cross-disciplinary teams.
 
-What is the aim?
------------------
+Why?
+=====
 
-To design and build digital impact-driven solutions for complex location and time-related societal problems focused on the improvement 
+To design and build digital impact-driven solutions for complex location and time-related societal problems focused on the improvement of 
 **Health and Wellbeing**
 
-To whom is it for?
-------------------
-Doctoral/Post-Doctoral Researchers and Master students
+How to participate
+===================
 
-Sign Up 
---------
+Register your participation as your suitable role in the course.
 
 .. raw:: html
 
@@ -25,10 +23,10 @@ Sign Up
         <div class="row">
             <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 d-flex">
                 <div class="card text-center intro-card shadow">
-                <img src="_static/researchers.png" class="card-img-top" alt="researchers image" >
-                <div class="card-body flex-fill">
-                    <h5 class="card-title">Researchers and Students</h5>
-                    <p class="card-text">Find information about signing up and important dates in the dedicated site to Researchers and Master students</p>
+                  <img src="_static/researchers.png" class="card-img-top" alt="researchers image" >
+                    <div class="card-body flex-fill">
+                      <h5 class="card-title">Researchers and Students</h5>
+                        <p class="card-text">Find information about signing up and important dates in the dedicated site to Researchers and Master students</p>
 
 .. container:: custom-button
 
@@ -36,8 +34,8 @@ Sign Up
 
 .. raw:: html
 
-                </div>
-                </div>
+                    </div>
+              </div>
             </div>
           <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 d-flex">
               <div class="card text-center intro-card shadow">
