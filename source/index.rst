@@ -13,7 +13,7 @@ To design and build digital impact-driven solutions for complex location and tim
 **Health and Wellbeing**
 
 When?
-======
+------
 Starting in Autumn 2023
 
 How to participate
