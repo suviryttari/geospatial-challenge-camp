@@ -9,7 +9,16 @@ open data and location technologies. Join us and collaborate with us
 to work together with multidisciplinary team in this 10-week course 
 during September-December 2023.
 
-Partners has the opportunity to collaborate in the next activities:
+👉 `Sign up in this Form <https://www.geoportti.fi/>`_ 
+--------------------------------------------------------
+
+.. admonition:: Deadline
+
+    Register as Partner before the **15.08.2023**
+
+Partner activities
+====================
+As a Partner you can support the Geospatial Challenge Camp in the next activities:
 
 Challenge theme owners
 -----------------------
@@ -31,19 +40,8 @@ Financial sponsors
 Is yor organization interested in supporting the challenge camp and provide scholarships 
 to young scientists? Or perhabs an award for the best solution?
 
-Registration 
-==============
-
-.. admonition:: Deadline
-
-    Register as Partner before the **15.08.2023**
-
-
-👉 `Sign up in this Form <https://www.geoportti.fi/>`_ 
---------------------------------------------------------
-
 
 Contact
---------
+========
 Do you want to have a talk with us? Send us an email to gcc-address@utu.fi
 
