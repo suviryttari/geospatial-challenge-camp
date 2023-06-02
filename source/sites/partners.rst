@@ -31,12 +31,17 @@ Financial sponsors
 Is yor organization interested in supporting the challenge camp and provide scholarships 
 to young scientists? Or perhabs an award for the best solution?
 
-👉 `Sign up in this Form <https://www.geoportti.fi/>`_ 
-========================================================
+Registration 
+==============
 
 .. admonition:: Deadline
 
     Register as Partner before the **15.08.2023**
+
+
+👉 `Sign up in this Form <https://www.geoportti.fi/>`_ 
+--------------------------------------------------------
+
 
 Contact
 --------
