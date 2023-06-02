@@ -31,8 +31,8 @@ Financial sponsors
 Is yor organization interested in supporting the challenge camp and provide scholarships 
 to young scientists? Or perhabs an award for the best solution?
 
-👉Sign up in this Form <https://www.geoportti.fi/>`_ 
-=======================================================
+👉 `Sign up in this Form <https://www.geoportti.fi/>`_ 
+========================================================
 
 .. admonition:: Deadline
 
