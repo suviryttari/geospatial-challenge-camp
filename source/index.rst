@@ -134,7 +134,6 @@ Possible application areas include:
   Are medical resources well distributed?
 
 
-
 .. toctree::
    :maxdepth: 2
    :hidden:
