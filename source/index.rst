@@ -69,7 +69,7 @@ Overview
 
 The *Geospatial Challenge Camp* is a new skills development and innovation 
 service of `Geoportti Research Infrastructure <https://www.geoportti.fi/>`_ 
-and `Location Innovation Hub (LIH) <https://www.maanmittauslaitos.fi/en/locationinnovationhub>`_, 
+and `Location Innovation Hub (LIH) <https://locationinnovationhub.eu/en/home/>`_, 
 which is one of the European Digital Innovation Hubs. 
 The Geospatial Challenge Camp is a 10-week long challenge-based course (5 ECTS) 
 that aims to provide participants a chance to tackle relevant 
