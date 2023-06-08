@@ -12,9 +12,8 @@ during September-December 2023.
 👉 `Sign up in this Form <https://www.geoportti.fi/>`_ 
 --------------------------------------------------------
 
-.. admonition:: Deadline
-
-    Register as Partner before the **15.08.2023**
+.. admonition:: 
+Register as Partner before the **15.08.2023**
 
 Partner activities
 ====================
@@ -43,5 +42,5 @@ to young scientists? Or perhabs an award for the best solution?
 
 Contact
 ========
-Do you want to have a talk with us? Send us an email to gcc-address@utu.fi
+Do you want to have a talk with us? Send us an email to geospatial-challenge@utu.fi
 
