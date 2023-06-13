@@ -36,7 +36,7 @@ The course runs for 10 weeks with a following structure:
         - At the end of this phase the teams know how they will solve the problem, will be able to present their approach to other students on the course and external stakeholders, and can start to develop the complete solution
 
     * - Mid-term Seminar
-      - - November 1st, 2023
+      - - 01.11.2023 Turku
         - Each group presents their own project and prototyping/ideas in a physical meeting held either in Helsinki or Turku (to be confirmed). Full day seminar and feedback session with key mentors present
         - Discussions of the groups' work and a chance to see others group's work
         - Here each group needs to be far enough in their work that they can give a presentation on how they will solve the problem
@@ -52,7 +52,7 @@ The course runs for 10 weeks with a following structure:
         - Follow-up plans will also be presented, in order for the work to continued among interested parties
 
     * - Final Seminar
-      - - 5.12.2023 in Turku or Espoo
+      - - 01.12.2023 in Espoo
         - Each group will present their solution to the rest of the course, stakeholders, and general audience
         - Any data, software demos etc. created will also be publicly distributed (unless otherwise agreed by the group, the stakeholders and the course staff)
         - Follow-up plans will also be presented, in order for the work to continued among interested parties
