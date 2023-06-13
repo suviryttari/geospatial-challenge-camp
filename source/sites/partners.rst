@@ -9,7 +9,7 @@ open data and location technologies. Join us and collaborate with us
 to work together with multidisciplinary team in this 10-week course 
 during September-December 2023.
 
-👉 `Sign up in this Form <https://www.geoportti.fi/>`_ 
+👉 `Sign up in this Form <https://forms.gle/Emo8MP8SNZfvcxqJ8>`_ 
 --------------------------------------------------------
 
 .. admonition:: Deadline
@@ -38,10 +38,10 @@ Are you willing to find the link between data-driven solutions to public health 
 Financial sponsors
 -------------------
 Is yor organization interested in supporting the challenge camp and provide scholarships 
-to young scientists? Or perhabs an award for the best solution?
+to young scientists? Or perhaps an award for the best solution?
 
 
-Contact
-========
-Do you want to have a talk with us? Send us an email to gcc-address@utu.fi
+Contact us
+============
+Do you have questions? Do you want to talk with us? Send an email to geospatial-challenge@utu.fi
 
