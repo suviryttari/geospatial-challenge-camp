@@ -148,7 +148,7 @@ Possible application areas include:
    :caption: Sign Up
 
    sites/partners
-   sites/participants
+   sites/researchers
    sites/schedule
    
   
