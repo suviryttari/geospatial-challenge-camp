@@ -40,6 +40,32 @@ Financial sponsors
 Is yor organization interested in supporting the challenge camp and provide scholarships 
 to young scientists? Or perhaps an award for the best solution?
 
+Possible partners
+===================
+
+- Health care and wellbeing organizations and institutes
+- Wellbeing services counties
+- Organizations providing location and statistical information
+- Health and wellbeing companies
+- Companies interested in extending their activities to health and wellbeing domain
+- Innovation hubs and actors
+- Cities, municipalities, provinces
+- Enthusiastic volunteers
+
+We offer
+=========
+
+1. New digital solutions to real-world health and well-being problems
+2. Working with young talented researchers and novel data processing
+3. Refined and new digital high-value data sets
+4. Stronger professional networks with location and tech experts
+
+For more information
+======================
+Download:
+
+- `Which flyer? <>`_ 
+- `Presentation? <>`_ 
 
 Contact us
 ============

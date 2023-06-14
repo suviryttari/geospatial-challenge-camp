@@ -1,20 +1,28 @@
 .. figure:: _static/banner_logos.png
 
-Welcome site
-=============
+Why Geospatial Challenge Camp?
+================================
 
-What?
------
-A 10-weeks long challenge-based course to tackle relevant **Health and Wellbeing** real-world challenges in cross-disciplinary teams.
-
-Why?
------
-To design and build digital impact-driven solutions for complex location and time-related societal problems focused on the improvement of 
-**Health and Wellbeing**
+Geospatial Challenge Camp aims at engaging young scientists and students 
+to solve real-world sustainability challenges with digital data and 
+location technologies. In 2023, the topic of the challenge is 
+health and wellbeing.
 
 When?
-------
-Starting in Autumn 2023
+======
+
+Starting on September 25-26th, 2023 with a kick-off event and 
+closing on December 1st, 2023. Multi-disciplinary teams of 
+young scientists work in close collaboration with different 
+stakeholders to co-create digital and social innovations 
+related to our health and wellbeing challenges
+
+How to cooperate with us and sign-up for the challenge?
+=========================================================
+
+Researchers and students, check below how to sign-up for the Geospatial Challenge Camp to boost your digital data and innovations skills and enlarge your networks.
+Collaborators, read more on how to be involved and match your digital health and well-being information needs and opportunities with us.
+
 
 How to participate
 ===================
@@ -30,7 +38,7 @@ Register your participation as your suitable role in the course.
                   <img src="_static/researchers.png" class="card-img-top" alt="researchers image" >
                     <div class="card-body flex-fill">
                       <h5 class="card-title">Researchers and Students</h5>
-                        <p class="card-text">Find information about registration and important dates</p>
+                        <p class="card-text">Read more about the aims, important dates and registration of the Challenge Camp 2023</p>
 
 .. container:: custom-button
 
@@ -46,7 +54,7 @@ Register your participation as your suitable role in the course.
               <img src="_static/students.png" class="card-img-top" alt="students image">
               <div class="card-body flex-fill">
                   <h5 class="card-title">Partners and Institutions</h5>
-                  <p class="card-text">Find information about registration and important dates</p>
+                  <p class="card-text">Read more on how to work with us and how to sign-up as a partner. No costs, just great opportunities for you!</p>
 
 .. container:: custom-button
 
@@ -64,8 +72,8 @@ Register your participation as your suitable role in the course.
 
 
 
-Overview 
-==========
+Challenge Camp 2023 
+=====================
 
 The *Geospatial Challenge Camp* is a new skills development and innovation 
 service of `Geoportti Research Infrastructure <https://www.geoportti.fi/>`_ 
@@ -141,13 +149,7 @@ Possible application areas include:
 
    sites/partners
    sites/participants
-
-.. toctree::
-   :maxdepth: 2
-   :hidden:
-   :caption: Schedule
-
-   sites/timetable
+   sites/schedule
    
   
 
