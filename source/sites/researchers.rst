@@ -1,4 +1,4 @@
-. figure:: ../_static/call_researchers.png
+.. figure:: ../_static/call_researchers.png
 
 Researchers
 ============
